@@ -29,6 +29,10 @@
 
 ### Companies
 
+#### Interested
+* Airbnb https://medium.com/airbnb-engineering
+
+
 #### \# companies
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
@@ -36,16 +40,43 @@
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
+	+ Modern web UI company
 * Addepar https://medium.com/build-addepar
+	+ Next stage financial platform
+	+ Tech stack looks normal
+	+ Sounds like a financial analytical tool
 * Affinity https://build.affinity.co/
+	+ Looks like front end company
+	+ Relationship business
+	+ Not looking super strong. Engineering blog not active
 * Airbrake https://airbrake.io/blog/
+	+ Performance monitoring for applications
+	+ Not linked to a specific engineering blog / might be early
 * AirPair https://www.airpair.com/software-experts
+	+ Find software experts by technology
 * Advanced Web Machinery https://advancedweb.hu/
+	+ Did not find product
 * Airbnb https://medium.com/airbnb-engineering
+	- Build many open source projects such as
+		+ Thrift binding
+		+ Delayed schedule queue
+		+ Real-time serverless malware detection
+	- Engineering categorized into different domains
+		+ Web
+		+ Open source
+		+ AI & ML
+		+ Data 
+		+ Infrastructure
+		+ FINTECH
 * Airtame https://airtame.engineering
+	- Engineering blog not updated
 * Algolia https://blog.algolia.com/
+	- Search tool
+	- Based on elastic search
 * Allegro.tech https://allegro.tech
+	- Outside of US
 * Appnexus https://techblog.appnexus.com/
+	- Not updated frequently
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
